@@ -1,0 +1,90 @@
+#one{
+    text-align: center;
+    font-family: 'Borel', cursive;
+    text-shadow: 2px 2px 2px rgb(235, 216, 216) ;
+    color: rgb(235, 14, 47);
+    border: 1px solid;
+    background-color: rgb(232, 241, 242);
+    font-size: 60px;
+}
+#two{
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    text-shadow: 2px 2px 2px rgb(220, 166, 166) ;
+    color: rgb(235, 13, 46);
+    border: 1px solid;
+    background-color: rgb(203, 235, 241);
+    font-size: 60px;
+}
+#three{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    text-shadow: 2px 2px 2px rgb(236, 180, 180) ;
+    color: rgb(239, 11, 49);
+    border: 1px solid;
+    background-color: rgb(185, 229, 233);
+    font-size: 60px;
+}
+#four{
+    text-align: center;
+    font-family: 'Barriecito', cursive;
+    text-shadow: 2px 2px 2px rgb(235, 216, 216) ;
+    color: rgb(236, 12, 46);
+    border: 1px solid;
+    background-color: rgb(172, 223, 232);
+    font-size: 60px;
+}
+#five{
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+    text-shadow: 2px 2px 2px rgb(235, 216, 216) ;
+    color: rgb(237, 12, 46);
+    border: 1px solid;
+    background-color: rgb(147, 231, 237);
+    font-size: 60px;
+}
+#six{
+    text-align: center;
+    font-family: 'Courgette', cursive;
+    text-shadow: 2px 2px 2px rgb(235, 216, 216) ;
+    color: rgb(237, 12, 46);
+    border: 1px solid;
+    background-color: rgb(146, 225, 234);
+    font-size: 60px;
+}
+#seven{
+    text-align: center;
+    font-family: 'Lumanosimo', cursive;
+    text-shadow: 2px 2px 2px rgb(235, 216, 216) ;
+    color: rgb(236, 13, 46);
+    border: 1px solid;
+    background-color: rgb(132, 225, 235);
+    font-size: 60px;
+}
+#eight{
+    text-align: center;
+    font-family: 'Rubik Wet Paint', cursive;
+    text-shadow: 2px 2px 2px rgb(235, 216, 216) ;
+    color: rgb(238, 13, 47);
+    border: 1px solid;
+    background-color: rgb(145, 233, 240);
+    font-size: 60px;
+}
+#nine{
+    text-align: center;
+    font-family: 'Lugrasimo', cursive;
+    text-shadow: 2px 2px 2px rgb(235, 216, 216) ;
+    color: rgb(236, 12, 45);
+    border: 1px solid;
+    background-color: rgb(94, 223, 240);
+    font-size: 60px;
+}
+#ten{
+    text-align: center;
+    font-family: 'Gloria Hallelujah', cursive;
+    text-shadow: 2px 2px 2px rgb(235, 216, 216) ;
+    color: rgb(239, 7, 42);
+    border: 1px solid;
+    background-color: rgb(75, 239, 236);
+    font-size: 60px;
+}
